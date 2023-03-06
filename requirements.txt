@@ -1,0 +1,6 @@
+lxml==4.9.2
+opencv-python==4.7.0.68
+Pillow==9.0.1
+proxy-randomizer==1.3.5
+selenium==4.8.2
+urllib3==1.26.14
